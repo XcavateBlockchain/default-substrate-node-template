@@ -18,18 +18,18 @@
       },
       "aura": {
         "authorities": [
-          "5DsxHMB2G4csPv9YUuNxHN5bp7gUKxfegi1RCqPt5irtsZgZ",
-          "5CcsmrQUeuRxhRLsdy46vnNmD42kKML3NejtyGazGu5K38X6"
+          "5D7iMQrsudb9ZKbaWHSzcQWwPBszBjxJ2vwYv2HgQG2ipeQF",
+          "5DcXSvsSMs2FhiWs1EQxbgsMNsQ6ytRSnhs5LwjosfqUHeEm"
         ]
       },
       "grandpa": {
         "authorities": [
           [
-            "5DxdLqim7q2CfVFjHuyGA543nEk4939DWFxejhxUfHPj1BzR",
+            "5G3m5cUz489VAs62U7wFbufribdA2shEHQS5XECnNCu82CEP",
             1
           ],
           [
-            "5EqCsS6immXZHMX3ht5pN4kUh345kMveJy2KGfcywkZjTuuQ",
+            "5C6bkQpqtS4RkRDoUvPGFEUoEpcG5sscArN6bEag71Pcha7W",
             1
           ]
         ]
@@ -38,52 +38,13 @@
         "balances": [
           [
             "5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY",
-            50052921504606846976
+            5000052921504606846976
           ],
           [
             "5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty",
-            50052921504606846976
-          ],
-          [
-            "5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y",
-            50052921504606846976
-          ],
-          [
-            "5DAAnrj7VHTznn2AWBemMuyBwZWs6FNFjdyVXUeYum3PTXFy",
-            50052921504606846976
-          ],
-          [
-            "5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw",
-            50052921504606846976
-          ],
-          [
-            "5CiPPseXPECbkjWCa6MnjNokrgYjMqmKndv2rSnekmSK2DjL",
-            50052921504606846976
-          ],
-          [
-            "5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY",
-            50052921504606846976
-          ],
-          [
-            "5HpG9w8EBLe5XCrbczpwq5TSXvedjrBGCwqxK1iQ7qUsSWFc",
-            50052921504606846976
-          ],
-          [
-            "5Ck5SLSHYac6WFt5UZRSsdJjwmpSZq85fd5TRNAdZQVzEAPT",
-            50052921504606846976
-          ],
-          [
-            "5HKPmK9GYtE1PSLsS1qiYU9xQ9Si1NcEhdeCq9sw5bqu4ns8",
-            50052921504606846976
-          ],
-          [
-            "5FCfAonRZgTFrTd9HREEyeJjDpT397KMzizE6T3DvebLFE7n",
-            50052921504606846976
-          ],
-          [
-            "5CRmqmsiNFExV6VbdmPJViVxrWmkaXXvBrSX8oqBT8R9vmWk",
-            50052921504606846976
+            5000052921504606846976
           ]
+          
         ]
       },
       "transactionPayment": {
